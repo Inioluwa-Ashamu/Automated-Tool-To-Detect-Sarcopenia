@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy>=1.22
+pandas>=1.5
+matplotlib>=3.6
+
+# Medical imaging I/O
+SimpleITK>=2.2
+nibabel>=5.1
+pydicom>=2.4
+
+# Deep learning (U-Net training/inference)
+torch>=2.0
+
+# Web app + PDF reporting
+streamlit>=1.26
+reportlab>=4.0
+
+# TotalSegmentator (CLI & Python API)
+TotalSegmentator
